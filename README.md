@@ -1,0 +1,3 @@
+# Hackintosh_i7-4790k_MSI-Z97-Gaming-3_MSI-GTX_960
+
+still debuging...
